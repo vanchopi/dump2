@@ -1,0 +1,4 @@
+http://www.fairy-tales.su/narodnye/!++--++--++!true!++--++--++!abxazskie-skazki!++--++--++!!++--++--++!3!++--++--++!0!++--++--++!!++--++--++!forum|showthread!++--++--++!c:\1text.txt!++--++--++!c:\1text.txt!++--++--++!Свой...!++--++--++!UTF-8!++--++--++!p, h2!++--++--++!c:\2text.txt!++--++--++!&nbsp;|&spbp;!++--++--++!c:\setigz.txt!++--++--++!c:\setigz.txt!++--++--++!<strong>|<a href|>!++--++--++!http://www.fairy-tales.su/narodnye/abxazskie-skazki/3882-aerg.html!++--++--++!<div id="content" class="widecolumn">|[1]|<div class="entry single">|[2]|<p class="postmetadata alt">|rel="category">|[3]|</a>!++--++--++!http://sptcars.ru/?p=122!++--++--++!title - [1]
+text - [2]
+categoria - [3]
+end OF post!++--++--++!true!++--++--++!false
